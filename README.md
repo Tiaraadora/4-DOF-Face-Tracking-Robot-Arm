@@ -1,5 +1,7 @@
 # 4-DOF Face Tracking Robot Arm
 
+![alt text](FacetrackRobotArm.png)
+
 This project implements a face-tracking robot arm using a combination of Python (OpenCV) for face detection and Arduino for servo control. The system continuously tracks a person's face through a webcam and adjusts the servo motor to follow the face's movement along the X-axis.
 
 ## Features
@@ -8,8 +10,8 @@ This project implements a face-tracking robot arm using a combination of Python 
 - Smooth servo motor movement for face tracking.
 
 ## Hardware Requirements
-- Arduino board (e.g., Uno, Nano)
-- Servo Motor (connected to pin 9)
+- Arduino board
+- Servo Motor
 - Webcam
 - Jumper wires and robot arm hardware/chassis setup
 
