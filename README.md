@@ -2,7 +2,7 @@
 
 <img src="FacetrackRobotArm.png" alt="alt text" height="500">
 
-This project implements a face-tracking robot arm using a combination of Python (OpenCV) for face detection and Arduino for servo control. The system continuously tracks a person's face through a webcam and adjusts the servo motor to follow the face's movement along the X-axis.
+A face-tracking robot arm using a combination of Python (OpenCV) for face detection and Arduino for servo control. The system continuously tracks a person's face through a webcam and adjusts the servo motor to follow the face's movement along the X-axis.
 
 ## Features
 - Real-time face detection using OpenCV Haar Cascades.
